@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap');
+ html{
+    background-image: url(img/img/Jesus\ on\ cross.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+   font-size: 4em;
+   font-family: Tahoma;
+   font-style: italic;
+   text-decoration: underline;
+
+}
+table{
+
+   background-color: white;
+   font-size: x-large;
+   table-layout: inherit;
+   margin-left: auto;margin-right: auto;
+}
+p{
+ color: white;
+ font-size: 30px;
+ font-family: 'Abyssinica SIL', serif;
+ 
+}
+p:hover{
+   color: #ff0000;
+}
+
+.reference{
+   margin:15px;
+   color: crimson;
+   position:relative; right: 600px; top:2px;
+
+}
+a:hover{
+   color:green;
+}
+
