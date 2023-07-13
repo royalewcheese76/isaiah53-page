@@ -17,6 +17,7 @@ table{
 
    background-color: white;
    font-size: x-large;
+   color: black;
    table-layout: inherit;
    margin-left: auto;margin-right: auto;
 }
