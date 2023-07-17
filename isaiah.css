@@ -34,7 +34,7 @@ p:hover{
 .reference{
    margin:40px;
    color: crimson;
-   position:relative; right: 400px; top:2px;
+   position: fixed;
 
 }
 a:hover{
@@ -42,7 +42,7 @@ a:hover{
 }
 
 .increase{
-   position: relative; right: 300px;
+   position: relative; left: 300px;
    color: #ff0000;
 }
 
