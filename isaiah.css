@@ -23,7 +23,7 @@ table{
 }
 p{
  color: black;
- font-size: 30px;
+ font-size: 40px;
  font-family: 'Abyssinica SIL', serif;
  
 }
@@ -32,7 +32,7 @@ p:hover{
 }
 
 .reference{
-   margin:15px;
+   margin:40px;
    color: crimson;
    position:relative; right: 600px; top:2px;
 
@@ -40,4 +40,13 @@ p:hover{
 a:hover{
    color:green;
 }
+
+.increase{
+   position: relative; right: 300px;
+   color: #ff0000;
+}
+
+
+
+
 
