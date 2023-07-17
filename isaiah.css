@@ -34,7 +34,7 @@ p:hover{
 .reference{
    margin:40px;
    color: crimson;
-   position: fixed;
+   position: fixed; right: 1500px;
 
 }
 a:hover{
