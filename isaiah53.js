@@ -9,4 +9,11 @@ function increaseFontSize () {
 let theBtn = document.getElementById("increase");
 theBtn.addEventListener("click", increaseFontSize)
 
+let m = 0
+let theArray = ['17px', '13px' , '10px'];
+function decreaseFontSize () {
+    head.style.fontSize = theArray[m++]
+}
+let myBtn = document.getElementById("decrease");
+myBtn.addEventListener("click", decreaseFontSize)
 

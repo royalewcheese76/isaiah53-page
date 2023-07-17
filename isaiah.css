@@ -42,8 +42,8 @@ a:hover{
 }
 
 .increase{
-   position: relative; left: 300px;
-   color: #ff0000;
+   position: relative; right: 300px;
+   color: blue;
 }
 
 
