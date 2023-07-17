@@ -1,4 +1,4 @@
-let head = document.getElementsByClassName("Jesus");
+let head = document.getElementById("Jesus");
 let i = 0;
 let myArray = ['43px' , '47px' , '50px' ];
 
