@@ -1,6 +1,6 @@
 let head = document.getElementById("Jesus");
 let i = 0;
-let myArray = ['40px' , '43px' , '45px' ];
+let myArray = ['43px' , '47px' , '50px' ];
 
 function increaseFontSize () {
    head.style.fontSize = myArray[i++];
@@ -10,7 +10,7 @@ let theBtn = document.getElementById("increase");
 theBtn.addEventListener("click", increaseFontSize)
 
 let m = 0
-let theArray = ['17px', '13px' , '10px'];
+let theArray = ['37px', '33px' , '29px'];
 function decreaseFontSize () {
     head.style.fontSize = theArray[m++]
 }

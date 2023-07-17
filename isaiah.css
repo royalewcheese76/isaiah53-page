@@ -41,11 +41,15 @@ a:hover{
    color:green;
 }
 
-.increase{
+#increase{
    position: relative; right: 300px;
    color: blue;
 }
 
+#decrease{
+   position: relative; left: 300px;
+   color: blue;
+}
 
 
 
